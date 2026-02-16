@@ -1,0 +1,15 @@
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.GeneratedMSBuildEditorConfig.editorconfig
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.AssemblyInfoInputs.cache
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.AssemblyInfo.cs
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.csproj.CoreCompileInputs.cache
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.sourcelink.json
+E:\lab1_ISRPO_Abbasov\backend\bin\Debug\net10.0\backend.exe
+E:\lab1_ISRPO_Abbasov\backend\bin\Debug\net10.0\backend.deps.json
+E:\lab1_ISRPO_Abbasov\backend\bin\Debug\net10.0\backend.runtimeconfig.json
+E:\lab1_ISRPO_Abbasov\backend\bin\Debug\net10.0\backend.dll
+E:\lab1_ISRPO_Abbasov\backend\bin\Debug\net10.0\backend.pdb
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.dll
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\refint\backend.dll
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.pdb
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\backend.genruntimeconfig.cache
+E:\lab1_ISRPO_Abbasov\backend\obj\Debug\net10.0\ref\backend.dll
